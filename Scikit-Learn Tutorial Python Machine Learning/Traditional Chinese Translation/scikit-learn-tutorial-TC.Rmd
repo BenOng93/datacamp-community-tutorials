@@ -31,6 +31,7 @@ tutorial::go_interactive()
 # Import `datasets` from `sklearn`
 from sklearn import ________
 
+
 # Load in the `digits` data
 digits = datasets.load_digits()
 
@@ -40,7 +41,8 @@ print(______)
 
 ```{python ex="scikit_load", type="solution"}
 # Import `datasets` from `sklearn`
-from sklearn import datasets
+from sklearn import datasetsy
+
 
 # Load in the `digits` data
 digits = datasets.load_digits()

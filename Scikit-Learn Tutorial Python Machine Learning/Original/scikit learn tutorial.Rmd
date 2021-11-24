@@ -50,6 +50,12 @@ digits = datasets.load_digits()
 print(______)
 ```
 
+```{python}
+
+```
+
+
+
 ```{python ex="scikit_load", type="solution"}
 # Import `datasets` from `sklearn`
 from sklearn import datasets
